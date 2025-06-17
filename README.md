@@ -1,2 +1,6 @@
 # OSINT
-Repository to store all the OSINT challenges I have solved explained with my reasoning.
+Hi, I'm Gravity.
+
+I'm new to OSINT and I'm still learning. 
+
+I will be posting little by little explanatory documents with the solutions to different challenges I find.
